@@ -139,3 +139,13 @@ We implement a BERT-style Transformer model designed for masked language modelin
     By displaying masked token predictions, the design facilitates debugging and understanding of model behavior.
 
 ---
+
+## Repository Structure
+- **Processed Data:**  
+  Processed Train, val, test data in json files done as part of Common Test 1.2.
+
+- **Common_test_2.pth:**  
+  File containing weights of trained model done in Common test 2.
+
+- **Common_Task2.ipynb**  
+  Jupyter Notebook containing implementation of Common Task 1.2 and Common Task 2.
