@@ -203,4 +203,11 @@ This Titan-inspired model for squared amplitude calculation represents a forward
 - **Switch Transformer layers with MoE** to dynamically allocate model capacity and improve prediction accuracy.
 - A robust training framework that employs masked language modeling, with evaluation metrics at both the token and sequence levels.
 
-The integration of these advanced techniques leads to a more powerful and flexible model compared to basic tokenization with normalized indices. This architecture is well-suited for tasks requiring precise calculation and transformation of mathematical expressions, paving the way for further enhancements and applications.
+
+## Repository Structure
+
+- **task_3_4.pth:**  
+  File containing weights of trained model done in Specific test 3.4.
+
+- **symbolic-ai-specific-test-3-4.ipynb**  
+  Jupyter Notebook containing implementation of Specific test 3.4.
