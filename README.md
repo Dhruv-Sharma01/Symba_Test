@@ -199,3 +199,11 @@ The main contributions of this approach include:
    - **Evaluation Metrics:** Token-level accuracy and sequence-level accuracy are computed to measure how well the model predicts masked tokens and entire sequences, respectively.
    - **Prediction Display:** A helper function displays example predictions to visually inspect model performance.
 
+
+## Repository Structure
+
+- **task_3_6.pth:**  
+  File containing weights of trained model done in Specific test 3.6.
+
+- **symbolic-ai-specific-test-3-6.ipynb**  
+  Jupyter Notebook containing implementation of Specific test 3.6.
